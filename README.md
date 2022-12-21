@@ -1,2 +1,2 @@
-# ewmdevbook_443
-Custom Development: Transfer of Custom Data from ODO to Warehouse Task
+# Enhancement 1G2b: Transfer of Custom Data from ODO to Warehouse Task
+Transfering custom field data from the ODO to the picking WT
